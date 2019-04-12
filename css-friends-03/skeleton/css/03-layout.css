@@ -1,0 +1,23 @@
+/* PHASE 3: Layout */
+
+.content{
+    background-color: goldenrod;
+    width: 500px;
+    float: left;
+    min-height: 200px;
+}
+
+.content-sidebar{
+    background-color: green;
+    width: 500px;
+    float: right;
+    min-height: 200px;
+}
+
+.content-main{
+    background-color:blue;
+    width: 500px;
+    float: right;
+    min-height: 200px;
+}
+
